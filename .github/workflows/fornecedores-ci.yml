@@ -3,7 +3,7 @@ name: CI - Fornecedores Service
 on:
   push:
     branches:
-      - main
+      - atividade-leilaHortencio
 
 jobs:
   build-fornecedores:
